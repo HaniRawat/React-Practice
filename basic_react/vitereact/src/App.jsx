@@ -1,9 +1,12 @@
-import { useState } from 'react'
+import Example from './example_function.jsx'
 
 
 function App() {
   return (
-  <h1>Hello Hello || vite</h1>
+    <>
+  <Example />
+  <h1>Hello Hello</h1>
+    </>
   );
 }
 
